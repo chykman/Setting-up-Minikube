@@ -14,8 +14,9 @@
 ![image](https://github.com/user-attachments/assets/fb37f70c-a898-4741-b45c-66978306d8ff)
 
 
-3. 
-4. 
+3.  Start minikube using docker driver
+   ![image](https://github.com/user-attachments/assets/6cc67cfb-4a6f-499b-8a9c-b90e349eeb94)
+ 
 
   
 
