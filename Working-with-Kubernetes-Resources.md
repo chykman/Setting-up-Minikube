@@ -48,7 +48,13 @@
 ### 7. Verify deployments
 ![image](https://github.com/user-attachments/assets/ed2b1c80-e620-45ce-a108-6c9818642422)
 
-### 8. Access your deployments via web browser
+### 8. Access your deployments via web browser by accessing the provided ip
+
+![image](https://github.com/user-attachments/assets/407d5e1e-733b-4853-beb7-08176822a34d)
+
+![image](https://github.com/user-attachments/assets/47db46ba-b1b6-4cdb-8b9e-09e56d6c25f6)
+
+
 
 
 
